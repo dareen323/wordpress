@@ -1,5 +1,5 @@
 # wordpress
-this is my third project at orange coding academy Build an E-Commerce Website by WordPress.
+This is my third project at orange coding academy Build an E-Commerce Website by WordPress.
 ### Trello link 
 https://trello.com/b/pneIIq1C/e-commerce-website
 ### mockup and wireframe link
